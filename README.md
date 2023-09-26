@@ -22,7 +22,7 @@ Each day, we'll be updating this repository with detailed explanations and insig
 
 ## How to Get Started
 
-1. Begin with the [Introduction](part-1.md) to get an overview of the Aptos blockchain and its mission.
+1. Begin with the [Introduction](https://github.com/Lowdata/Aptos-Book/blob/main/Introduction.md#aptos-blockchain) to get an overview of the Aptos blockchain and its mission.
 
 2. Explore the subsequent parts to dive deeper into specific aspects of the Aptos blockchain.
 
