@@ -1,8 +1,8 @@
 # Welcome to the Aptos Blockchain Learning Repository!
 
-![Aptos Blockchain](aptos.png)
+![Aptos Blockchain](Aptos.png)
 
-Greetings, blockchain enthusiasts and learners! 🚀
+### Greetings, blockchain enthusiasts and learners! 🚀
 
 This repository is your gateway to understanding the fascinating world of the Aptos blockchain, a revolutionary web3 infrastructure. Whether you're a seasoned developer, a curious student, or someone simply intrigued by blockchain technology, you're in the right place.
 
@@ -34,6 +34,5 @@ Have insights, questions, or suggestions? Feel free to contribute to this reposi
 
 We hope you enjoy your learning experience with Aptos blockchain, and we're excited to have you on board as we explore this groundbreaking technology together!
 
-Happy learning! 🌐🔗
+### Happy learning! 🌐🔗
 
-![Aptos Blockchain](aptos.png)
